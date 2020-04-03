@@ -1,6 +1,6 @@
 # reinforcement-learning
 
-This repository contains representative Reinforcement Learning algorithms.
+This repository contains implementation of popular algorithms for reinforcement learning.
 
 Author:\
 Roman Denysiuk
