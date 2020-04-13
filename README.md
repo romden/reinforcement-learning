@@ -1,6 +1,5 @@
 # reinforcement-learning
 
-This repository contains implementation of popular algorithms for reinforcement learning.
+This repository contains python implementations of popular algorithms for reinforcement learning.
 
-Author:\
-Roman Denysiuk
+To run some algorithms, TensorFlow 2.0 is required.
